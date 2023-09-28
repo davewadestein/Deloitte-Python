@@ -1,6 +1,6 @@
 # Deloitte-Python
 * how to reach me: dave@developintelligence.com
-* evaluation link: https://www.surveymonkey.com/r/5WZ57SP'
+* evaluation link: https://www.surveymonkey.com/r/5WZ57SP
 * video links:
    * day 1
    * day 2

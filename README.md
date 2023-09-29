@@ -6,7 +6,8 @@
      * Passcode: ePC@GfA9
    * day 2: https://pluralsight.zoom.us/rec/share/R9DXE24AlByHbT0REiLXnRATxOETiBkaqnn_2rTwSjRWhBguFV1uY3cojHsKdHmC.ZUS5bclCZZ3GENTM 
      * Passcode: hU81R$1+
-   * day 3
+   * day 3: https://pluralsight.zoom.us/rec/share/24qIaiQGsI3PPGoQ659yBp9vb-7LRi2OUfn5Ncc5wQ6d1jzZa2jzDktQgVWAW3RE.ZL_6VthZ-tgqv09i
+     * Passcode: !Jnx7^r2
 * Anaconda Cloud: https://anaconda.cloud/
 * Google Colaboratory: https://colab.research.google.com/ (requires a Google login)
 * Python tutor: https://pythontutor.com/
